@@ -1,0 +1,12 @@
+{
+  "name": "com.gcenter.particleGUI",
+  "version": "1.0.0",
+  "displayName": "Particle GUI",
+  "description": "Play a particle on UI Canvas",
+  "unity": "2022.3.22",
+  "author": {
+    "name": "Do Trung Hieu",
+    "email": "dotrunghieu95tb@gmail.com",
+    "url": ""
+  }
+}
